@@ -6,8 +6,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url('https://i.pinimg.com/1200x/a5/43/ea/a543eaa9baba9c2e670c1885b41626e9.jpg')
-   
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url('https://i.pinimg.com/1200x/a5/43/ea/a543eaa9baba9c2e670c1885b41626e9.jpg') ;
+    background-size: cover;
+    background-position: center;
 }
 
 .hide {
